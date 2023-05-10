@@ -1,0 +1,9 @@
+[submodule "college-ebay"]
+	path = college-ebay
+	url = https://github.com/DavidIstrati/Colbay-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DavidIstrati/Colbay-backend
+[submodule "website/colbay_website"]
+	path = website/colbay_website
+	url = https://github.com/DavidIstrati/Colbay-website
